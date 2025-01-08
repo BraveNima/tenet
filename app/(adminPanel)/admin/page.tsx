@@ -1,5 +1,3 @@
-"use client";
-
 import AdminTable from "@/components/AdminTable";
 import Drawer from "@/components/Drawer";
 
